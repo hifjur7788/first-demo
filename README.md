@@ -1,3 +1,4 @@
 # first-demo
-This is my first Git Repository
-Author - Hifjur rehman
+This is my first Git Repository.
+<br>
+Author - Hifjur rehman.
